@@ -1,0 +1,32 @@
+# Robots.txt for Hampton Roads Gen-Z Commission Website
+# This file tells search engines how to crawl and index the website
+
+User-agent: *
+Allow: /
+Allow: /public/
+Disallow: /admin/
+Disallow: /*.json$
+Disallow: /node_modules/
+
+# Specific rules for googlebot
+User-agent: googlebot
+Allow: /
+Crawl-delay: 0
+
+# Specific rules for bingbot
+User-agent: bingbot
+Allow: /
+Crawl-delay: 1
+
+# Disallow bad bots
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: DotBot
+Disallow: /
+
+# Sitemap location
+Sitemap: https://hrgenz.org/sitemap.xml
+
+# Cache validity
+# Crawl-delay: 1
+# Request-rate: 1/10s

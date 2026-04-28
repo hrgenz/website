@@ -1,0 +1,16 @@
+# ads.txt
+# This file contains authorized digital sellers for this website
+# It helps prevent ad fraud and ensures advertising partners are legitimate
+
+# If you monetize this site in the future, add your ad partners here
+# Format: account-type, seller-id, seller-name, certification-authority
+
+# Example for Google AdSense:
+# google.com, pub-YOUR-PUBLISHER-ID, DIRECT, f08c47fec0942fa0
+
+# Example for other networks:
+# rubicon.com, 123456, DIRECT, aacde5193616b677
+# openx.com, 123456, RESELLER, 6a698e2ec38604c6
+
+# Current Status: No ad networks enabled
+# This file will be updated when monetization partners are added

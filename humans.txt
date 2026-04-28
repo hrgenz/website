@@ -1,0 +1,34 @@
+/* HUMANS.TXT */
+/* This file contains information about the people who contributed to this website */
+
+/* TEAM */
+Team: Hampton Roads Gen-Z Commission
+Site: https://hrgenz.org/
+Contact: sayhey@hrgenz.org
+
+/* ORGANIZATION */
+Organization: Hampton Roads Gen-Z Commission
+Type: 501(c)(3) Nonprofit
+EIN: 39-4952237
+Location: Hampton Roads, Virginia
+Founded: 2024
+Website: https://hrgenz.org/
+Twitter: https://www.instagram.com/hrgenzees/
+LinkedIn: https://www.linkedin.com/company/hrgenz
+YouTube: https://www.youtube.com/channel/UCLj1igJS2N6I2NXe_h50n9Q
+
+/* MISSION */
+Mission: To inspire, inform, involve, and invest in Gen-Z as they take the lead in Hampton Roads.
+
+/* DESIGN & DEVELOPMENT */
+Last Updated: 2026-04-22
+Standards: HTML5, CSS3, WCAG 2.1 AA
+Components: 
+- Responsive Design
+- Accessibility Features
+- SEO Optimization
+- Performance Optimization
+
+/* RESOURCES & THANKS */
+Special Thanks: All Gen-Z members and community supporters making an impact in Hampton Roads.
+Partners: Community leaders, civic organizations, and stakeholders in Hampton Roads.

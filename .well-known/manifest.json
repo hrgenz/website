@@ -1,0 +1,62 @@
+{
+  "name": "Hampton Roads Gen-Z Commission",
+  "short_name": "HR Gen-Z",
+  "description": "Gen-Z has entered the chat—Hampton Roads will never be the same. Youth leadership and community engagement.",
+  "start_url": "https://hrgenz.org/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "public/seo/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "public/seo/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "public/images/logo.png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    }
+  ],
+  "categories": [
+    "education",
+    "community"
+  ],
+  "shortcuts": [
+    {
+      "name": "Join Membership",
+      "short_name": "Join",
+      "description": "Join the Hampton Roads Gen-Z Commission",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScm504hlBqWwY9wijmhUOE-sWCG9lOw2RedblRaIrwv-Wir1g/viewform",
+      "icons": [
+        {
+          "src": "public/seo/favicon.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Donate",
+      "short_name": "Donate",
+      "description": "Support Gen-Z led initiatives",
+      "url": "https://givebutter.com/PWi4hg",
+      "icons": [
+        {
+          "src": "public/seo/favicon.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
