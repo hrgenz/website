@@ -70,12 +70,10 @@ Disallow: /node_modules/
 # Specific rules for googlebot
 User-agent: googlebot
 Allow: /
-Crawl-delay: 0
 
 # Specific rules for bingbot
 User-agent: bingbot
 Allow: /
-Crawl-delay: 1
 
 # Disallow bad bots
 User-agent: AhrefsBot
